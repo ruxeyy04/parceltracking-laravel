@@ -1,0 +1,55 @@
+/* *{
+    background-color: black;
+} */
+* {
+    font-family: monospace;
+    /* background-color: black; */
+}
+nav {
+    background-color: #fca238;
+    height: auto;
+}
+.content {
+    height: 100vh;
+}
+.navbar-brand {
+    font-weight: 800;
+    font-size: x-large;
+}
+.red {
+    height: 10px;
+    background-color: #e42c2c9c;
+}
+.trackbtn {
+    background-color: #fca238;
+}
+.trackipt {
+    background-color: #fca03849;
+}
+footer {
+    background-color: #fca238;
+    height: 200px;
+}
+.line {
+    border-bottom: solid black;
+}
+.trackedh {
+    background-color: #cccccc37;
+    padding: 1%;
+    border-radius: 20px;
+}
+.logbor {
+    background-color: #cccccc37;
+    padding: 20px;  
+    border-radius: 20px;
+}
+.logbor img {
+    height: 100px;
+}
+.badge {
+    transform: scale(0.5);
+    cursor: pointer;
+}
+#profimg {
+    border-radius: 50%;
+}
